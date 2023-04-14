@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blackstripespub1.github.io/www.blackstripespub.com/sitemap.xml

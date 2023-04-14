@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BlackStripesPub.com",
+    "description": "",
+    "home_page_url": "https://blackstripespub1.github.io/www.blackstripespub.com",
+    "feed_url": "https://blackstripespub1.github.io/www.blackstripespub.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Darren Twa"
+    },
+    "items": [
+        {
+            "id": "https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html",
+            "url": "https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html",
+            "title": "Welcome to BlackStripesPub",
+            "summary": "This is the main entry for my blogs. Here you will find: Product reviews Technology notes regarding software and hardware Religious commentary Political commentary",
+            "content_html": "<p>This is the main entry for my blogs.</p>\n<p>Here you will find:</p>\n<ol>\n<li><a href=\"https://reviews.blackstripespub.com\">Product reviews</a></li>\n<li><a href=\"https://tech.blackstripespub.com\">Technology</a> notes regarding software and hardware</li>\n<li><a href=\"https://religion.blackstripespub.com\">Religious</a> commentary</li>\n<li><a href=\"https://politics.blackstripespub.com\">Political</a> commentary</li>\n</ol>",
+            "author": {
+                "name": "Darren Twa"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-14T07:47:19-07:00",
+            "date_modified": "2023-04-14T13:23:04-07:00"
+        }
+    ]
+}

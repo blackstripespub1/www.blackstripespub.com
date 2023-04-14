@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BlackStripesPub.com</title>
+    <link href="https://blackstripespub1.github.io/www.blackstripespub.com/feed.xml" rel="self" />
+    <link href="https://blackstripespub1.github.io/www.blackstripespub.com" />
+    <updated>2023-04-14T13:23:04-07:00</updated>
+    <author>
+        <name>Darren Twa</name>
+    </author>
+    <id>https://blackstripespub1.github.io/www.blackstripespub.com</id>
+
+    <entry>
+        <title>Welcome to BlackStripesPub</title>
+        <author>
+            <name>Darren Twa</name>
+        </author>
+        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html"/>
+        <id>https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html</id>
+
+        <updated>2023-04-14T13:23:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the main entry for my blogs. Here you will find: Product reviews Technology notes regarding software and hardware Religious commentary Political commentary
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is the main entry for my blogs.</p>
+<p>Here you will find:</p>
+<ol>
+<li><a href="https://reviews.blackstripespub.com">Product reviews</a></li>
+<li><a href="https://tech.blackstripespub.com">Technology</a> notes regarding software and hardware</li>
+<li><a href="https://religion.blackstripespub.com">Religious</a> commentary</li>
+<li><a href="https://politics.blackstripespub.com">Political</a> commentary</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+</feed>
