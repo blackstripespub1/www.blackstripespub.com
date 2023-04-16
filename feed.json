@@ -10,18 +10,33 @@
     },
     "items": [
         {
+            "id": "https://blackstripespub1.github.io/www.blackstripespub.com/learning-to-love-from-conflict-to-communication.html",
+            "url": "https://blackstripespub1.github.io/www.blackstripespub.com/learning-to-love-from-conflict-to-communication.html",
+            "title": "Learning to Love: From Conflict to Communication",
+            "summary": "Before I begin any political discussion here, I would invite you to read my book about values. Learning To Love provides the tools for relational growth centered on a loving value system For relationships to be their best, they require values that strengthen and improve&hellip;",
+            "content_html": "<p>Before I begin any political discussion here, I would invite you to read my book about values.</p>\n<h3>Learning to Love</h3>\n<p><em>Learning To Love</em> provides the tools for relational growth centered on a loving value system<br><br>For relationships to be their best, they require values that strengthen and improve relationship. The value system best suited for this is beneficial love. Within it is contained the attitudes necessary to grow closer and resolve conflict, and desires expressed within the confines of beneficial love greatly enhance relationship.<br><br>Loving others does not come automatically. It involves deliberate action in the face of differences. You can improve your relationships, and you can learn to love others more. This process begins with understanding your own values and comparing them to the relational standard of beneficial love.</p>\n<h3>Love Better</h3>\n<p><br>Values: Discover the value system that enhances relationship.<br>Communication: Learn skills that enable deep understanding of others.<br>Emotions: Experience inner peace flowing from emotional freedom.<br>Reconciliation: Resolve conflict and move forward in relationship with common values.</p>\n<p><a href=\"https://amzn.to/41vYXeb\" target=\"_blank\" rel=\"noopener noreferrer\">Buy it on Amazon.com</a></p>",
+            "image": "https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/3/featured_bg4.png",
+            "author": {
+                "name": "Darren Twa"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-16T14:46:33-07:00",
+            "date_modified": "2023-04-16T14:46:58-07:00"
+        },
+        {
             "id": "https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html",
             "url": "https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html",
             "title": "Welcome to BlackStripesPub",
-            "summary": "This is the main entry for my blogs. Here you will find: Product reviews Technology notes regarding software and hardware Religious commentary Political commentary",
-            "content_html": "<p>This is the main entry for my blogs.</p>\n<p>Here you will find:</p>\n<ol>\n<li><a href=\"https://reviews.blackstripespub.com\">Product reviews</a></li>\n<li><a href=\"https://tech.blackstripespub.com\">Technology</a> notes regarding software and hardware</li>\n<li><a href=\"https://religion.blackstripespub.com\">Religious</a> commentary</li>\n<li><a href=\"https://politics.blackstripespub.com\">Political</a> commentary</li>\n</ol>",
+            "summary": "This is the main entry for my blogs: And if you are here for my book: Learning to Love",
+            "content_html": "<p>This is the main entry for my blogs:</p>\n<ol>\n<li><a href=\"https://reviews.blackstripespub.com\">Product reviews</a></li>\n<li><a href=\"https://tech.blackstripespub.com\">Technology</a> notes regarding software and hardware</li>\n<li><a href=\"https://religion.blackstripespub.com\">Religious</a> commentary</li>\n<li><a href=\"https://politics.blackstripespub.com\">Political</a> commentary</li>\n</ol>\n<p>And if you are here for my book: <a href=\"https://blackstripespub1.github.io/www.blackstripespub.com/learning-to-love-from-conflict-to-communication.html\">Learning to Love</a></p>",
             "author": {
                 "name": "Darren Twa"
             },
             "tags": [
             ],
             "date_published": "2023-04-14T07:47:19-07:00",
-            "date_modified": "2023-04-14T13:23:04-07:00"
+            "date_modified": "2023-04-16T14:47:42-07:00"
         }
     ]
 }
