@@ -12,7 +12,10 @@
         {
             "id": "https://blackstripespub.com/tech.html",
             "url": "https://blackstripespub.com/tech.html",
-            "title": "Tech",
+            "title": "Tumbleweed USB printer sharing fix",
+            "summary": "I have a printer that shared perfectly well with Ubuntu, but after transitioning my server to OpenSUSE Tumbleweed it would periodically disappear after server reboot. The problem turns out to be an error caused by a change in the CUPS printer server making it not&hellip;",
+            "content_html": "<p>I have a printer that shared perfectly well with Ubuntu, but after transitioning my server to OpenSUSE Tumbleweed it would periodically disappear after server reboot.</p>\n<p>The problem turns out to be an error caused by a change in the CUPS printer server making it not share USB printers very well anymore.</p>\n<p>The fix requires adding an older protocol to your configuration settings. This can be done through the web interface on the Administration page under the Server section. Make sure BrowseRemoteProtocols also has CUPS listed next to it.</p>\n<pre>BrowseRemoteProtocols CUPS</pre>\n<p> </p>",
+            "image": "https://blackstripespub.com/media/posts/8/00360-383325233-laser-printer.png",
             "author": {
                 "name": "Darren Twa"
             },
@@ -20,7 +23,7 @@
                    "Tech"
             ],
             "date_published": "2023-04-19T11:15:45-07:00",
-            "date_modified": "2023-04-19T11:15:45-07:00"
+            "date_modified": "2023-04-19T11:58:29-07:00"
         },
         {
             "id": "https://blackstripespub.com/tennessee-southern-baptist-affected-by-gun-violence.html",
@@ -111,14 +114,14 @@
             "url": "https://blackstripespub.com/welcome.html",
             "title": "Welcome to BlackStripesPub",
             "summary": "This is the main entry for my blogs: And if you are here for my books.",
-            "content_html": "<p>This is the main entry for my blogs:</p>\n<ol>\n<li>General posts are on this site</li>\n<li><a href=\"https://reviews.blackstripespub.com\">Product reviews</a></li>\n<li><a href=\"https://blackstripespub.com/tags/tech/\">Technology</a> notes regarding software and hardware</li>\n<li><a href=\"https://blackstripespub.com/tags/religion/\">Religious</a> commentary</li>\n<li><a href=\"https://blackstripespub.com/tags/religion/\">Political</a> commentary</li>\n</ol>\n<p>And if you are here for my <a href=\"https://blackstripespub.com/tags/book/\">books</a>.</p>",
+            "content_html": "<p>This is the main entry for my blogs:</p>\n<ol>\n<li>General posts are on this site</li>\n<li><a href=\"https://reviews.blackstripespub.com\">Product reviews</a></li>\n<li><a href=\"https://blackstripespub.com/tags/tech/\">Technology</a> notes regarding software and hardware</li>\n<li><a href=\"https://blackstripespub.com/tags/religion/\">Religious</a> commentary</li>\n<li><a href=\"https://blackstripespub.com/tags/politics/\">Political</a> commentary</li>\n</ol>\n<p>And if you are here for my <a href=\"https://blackstripespub.com/tags/book/\">books</a>.</p>",
             "author": {
                 "name": "Darren Twa"
             },
             "tags": [
             ],
             "date_published": "2023-04-14T07:47:19-07:00",
-            "date_modified": "2023-04-19T11:22:00-07:00"
+            "date_modified": "2023-04-19T11:39:36-07:00"
         }
     ]
 }
