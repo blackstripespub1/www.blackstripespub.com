@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>BlackStripesPub.com</title>
-    <link href="https://blackstripespub1.github.io/www.blackstripespub.com/feed.xml" rel="self" />
-    <link href="https://blackstripespub1.github.io/www.blackstripespub.com" />
+    <link href="https://blackstripespub.com/feed.xml" rel="self" />
+    <link href="https://blackstripespub.com" />
     <updated>2023-04-19T11:22:00-07:00</updated>
     <author>
         <name>Darren Twa</name>
     </author>
-    <id>https://blackstripespub1.github.io/www.blackstripespub.com</id>
+    <id>https://blackstripespub.com</id>
 
     <entry>
         <title>Tech</title>
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/tech.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/tech.html</id>
+        <link href="https://blackstripespub.com/tech.html"/>
+        <id>https://blackstripespub.com/tech.html</id>
             <category term="Tech"/>
 
         <updated>2023-04-19T11:15:45-07:00</updated>
@@ -27,22 +27,22 @@
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/tennessee-southern-baptist-affected-by-gun-violence.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/tennessee-southern-baptist-affected-by-gun-violence.html</id>
-        <media:content url="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/7/00344-1755991881-open-bible-with-gun-laying-on-table.png" medium="image" />
+        <link href="https://blackstripespub.com/tennessee-southern-baptist-affected-by-gun-violence.html"/>
+        <id>https://blackstripespub.com/tennessee-southern-baptist-affected-by-gun-violence.html</id>
+        <media:content url="https://blackstripespub.com/media/posts/7/00344-1755991881-open-bible-with-gun-laying-on-table.png" medium="image" />
             <category term="Religion"/>
             <category term="Politics"/>
 
         <updated>2023-04-19T10:47:44-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/7/00344-1755991881-open-bible-with-gun-laying-on-table.png" alt="" />
+                        <img src="https://blackstripespub.com/media/posts/7/00344-1755991881-open-bible-with-gun-laying-on-table.png" alt="" />
                     From the "Well, now that it affects me department" Christianity Today is reporting that Brent Leatherwood, the president of the Southern Baptist Convention's Ethics and Religious Liberty Commission is concerned with gun violence. This follows the mass shooting at the Covenant School in Nashville where&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/7/00344-1755991881-open-bible-with-gun-laying-on-table.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blackstripespub.com/media/posts/7/00344-1755991881-open-bible-with-gun-laying-on-table.png" class="type:primaryImage" alt="" /></p>
                 <h3>From the "Well, now that it affects me department"</h3>
 <p>Christianity Today is <a href="https://www.christianitytoday.com/news/2023/april/tennessee-erlc-brent-leatherwood-covenant-gun-proposal-lee-.html" target="_blank" rel="noopener noreferrer">reporting</a> that Brent Leatherwood, the president of the Southern Baptist Convention's Ethics and Religious Liberty Commission is concerned with gun violence. This follows the mass shooting at the Covenant School in Nashville where his children attend.</p>
 <p>Leatherwood has had plenty of time to address this as he was previously the executive director of the Tennessee GOP for six years; and now, with <span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">twenty percent of Tennessee's residents being Southern Baptist, he has those ears as well</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. But his department was busy with other issues of morality and life. Maybe he thought the 2018 Southern Baptist resolution "</span><a href="https://www.sbc.net/resource-library/resolutions/on-gun-violence-and-mass-shootings/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">On Gun Violence and Mass Shootings</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">" was enough, when it actually comes across as little more than "thoughts and prayers".</span></p>
@@ -55,22 +55,22 @@
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/relationship-and-value-system-a-guide-to-successful-and-happy-relationships.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/relationship-and-value-system-a-guide-to-successful-and-happy-relationships.html</id>
-        <media:content url="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/6/featured_bg3.png" medium="image" />
+        <link href="https://blackstripespub.com/relationship-and-value-system-a-guide-to-successful-and-happy-relationships.html"/>
+        <id>https://blackstripespub.com/relationship-and-value-system-a-guide-to-successful-and-happy-relationships.html</id>
+        <media:content url="https://blackstripespub.com/media/posts/6/featured_bg3.png" medium="image" />
             <category term="Religion"/>
             <category term="Books"/>
 
         <updated>2023-04-19T10:53:44-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/6/featured_bg3.png" alt="" />
+                        <img src="https://blackstripespub.com/media/posts/6/featured_bg3.png" alt="" />
                     The third of the three religious books I have available at GodsValueSystem.com is Relationship and Value System: A Guide to Successful and Happy Relationships. Relationship and Value System outlines the tools necessary to develop strong relationships with God and others. Buy it on Amazon.com The&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/6/featured_bg3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blackstripespub.com/media/posts/6/featured_bg3.png" class="type:primaryImage" alt="" /></p>
                 <p>The third of the three religious books I have available at <a href="https://godsvaluesystem.com" target="_blank" rel="noopener noreferrer">GodsValueSystem.com</a> is <em>Relationship and Value System: A Guide to Successful and Happy Relationships</em>.</p>
 <div class="post__iframe"><iframe loading="lazy" style="width: 120px; height: 240px;" sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=godsvalsys-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B00472O75Q&amp;asins=B00472O75Q&amp;linkId=ebb767cded86d2a4814a6c151fead890&amp;show_border=true&amp;link_opens_in_new_window=true" data-mce-fragment="1"></iframe></div> </p>
 <h3>Relationship and Value System</h3>
@@ -85,22 +85,22 @@
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/book-emotions-revealing-our-value-systems.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/book-emotions-revealing-our-value-systems.html</id>
-        <media:content url="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/5/featured_bg2.png" medium="image" />
+        <link href="https://blackstripespub.com/book-emotions-revealing-our-value-systems.html"/>
+        <id>https://blackstripespub.com/book-emotions-revealing-our-value-systems.html</id>
+        <media:content url="https://blackstripespub.com/media/posts/5/featured_bg2.png" medium="image" />
             <category term="Religion"/>
             <category term="Books"/>
 
         <updated>2023-04-19T10:53:47-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/5/featured_bg2.png" alt="" />
+                        <img src="https://blackstripespub.com/media/posts/5/featured_bg2.png" alt="" />
                     The second of the three religious books I have available at GodsValueSystem.com is Emotions: Revealing Our Value Systems. Emotions: Revealing Our Value Systems is a practical look at emotions from the perspective of heart values. Buy it on Amazon.com Many people are driven by their&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/5/featured_bg2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blackstripespub.com/media/posts/5/featured_bg2.png" class="type:primaryImage" alt="" /></p>
                 <p>The second of the three religious books I have available at <a href="https://godsvaluesystem.com" target="_blank" rel="noopener noreferrer">GodsValueSystem.com</a> is <em>Emotions: Revealing Our Value Systems</em>.</p>
 <div class="post__iframe"><iframe loading="lazy" style="width: 120px; height: 240px;" sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=godsvalsys-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=B00472O742&amp;asins=B00472O742&amp;linkId=ed8a5516d8135fc45516d0dbd12f415e&amp;show_border=true&amp;link_opens_in_new_window=true" data-mce-fragment="1"></iframe></div> </p>
 <h3>Emotions reveal our values</h3>
@@ -128,22 +128,22 @@
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/book-gods-value-system.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/book-gods-value-system.html</id>
-        <media:content url="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/4/featured_bg1.png" medium="image" />
+        <link href="https://blackstripespub.com/book-gods-value-system.html"/>
+        <id>https://blackstripespub.com/book-gods-value-system.html</id>
+        <media:content url="https://blackstripespub.com/media/posts/4/featured_bg1.png" medium="image" />
             <category term="Religion"/>
             <category term="Books"/>
 
         <updated>2023-04-19T10:31:43-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/4/featured_bg1.png" alt="" />
+                        <img src="https://blackstripespub.com/media/posts/4/featured_bg1.png" alt="" />
                     The first of the three religious books I have available at GodsValueSystem.com is God's Value System. God's Value System God's Value System develops the theology of understanding God and biblical issues in terms of relationship with God. Buy it on Amazon.com Jesus never intended the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/4/featured_bg1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blackstripespub.com/media/posts/4/featured_bg1.png" class="type:primaryImage" alt="" /></p>
                 <p>The first of the three religious books I have available at <a href="https://godsvaluesystem.com" target="_blank" rel="noopener noreferrer">GodsValueSystem.com</a> is <em>God's Value System</em>.</p>
 <p> <div class="post__iframe"><iframe loading="lazy" style="width: 120px; height: 240px;" sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=godsvalsys-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=0982357400&amp;asins=0982357400&amp;linkId=6f06459aade43b43b5f2012f2c1eea7e&amp;show_border=true&amp;link_opens_in_new_window=true" data-mce-fragment="1"></iframe></div>
 <h3>God's Value System</h3>
@@ -171,21 +171,21 @@
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/learning-to-love-from-conflict-to-communication.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/learning-to-love-from-conflict-to-communication.html</id>
-        <media:content url="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/3/featured_bg4.png" medium="image" />
+        <link href="https://blackstripespub.com/learning-to-love-from-conflict-to-communication.html"/>
+        <id>https://blackstripespub.com/learning-to-love-from-conflict-to-communication.html</id>
+        <media:content url="https://blackstripespub.com/media/posts/3/featured_bg4.png" medium="image" />
             <category term="Books"/>
 
         <updated>2023-04-19T10:24:09-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/3/featured_bg4.png" alt="" />
+                        <img src="https://blackstripespub.com/media/posts/3/featured_bg4.png" alt="" />
                     Before I begin any political discussion here, I would invite you to read my book about values. Buy it on Amazon.com Learning To Love provides the tools for relational growth centered on a loving value system For relationships to be their best, they require values&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blackstripespub1.github.io/www.blackstripespub.com/media/posts/3/featured_bg4.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blackstripespub.com/media/posts/3/featured_bg4.png" class="type:primaryImage" alt="" /></p>
                 <p>Before I begin any political discussion here, I would invite you to read my book about values. <a href="https://amzn.to/3A0iMPa" target="_blank" rel="noopener noreferrer">Buy it on Amazon.com</a></p>
 <div class="post__iframe"><iframe loading="lazy" style="width: 120px; height: 240px;" sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=godsvalsys-20&amp;language=en_US&amp;marketplace=amazon&amp;region=US&amp;placement=0982357435&amp;asins=0982357435&amp;linkId=11af370c869c2d03ee7437daf21cffdd&amp;show_border=true&amp;link_opens_in_new_window=true"></iframe></div> </p>
 <h3>Learning to Love</h3>
@@ -201,8 +201,8 @@
         <author>
             <name>Darren Twa</name>
         </author>
-        <link href="https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html"/>
-        <id>https://blackstripespub1.github.io/www.blackstripespub.com/welcome.html</id>
+        <link href="https://blackstripespub.com/welcome.html"/>
+        <id>https://blackstripespub.com/welcome.html</id>
 
         <updated>2023-04-19T11:22:00-07:00</updated>
             <summary>
@@ -216,11 +216,11 @@
 <ol>
 <li>General posts are on this site</li>
 <li><a href="https://reviews.blackstripespub.com">Product reviews</a></li>
-<li><a href="https://blackstripespub1.github.io/www.blackstripespub.com/tags/tech/">Technology</a> notes regarding software and hardware</li>
-<li><a href="https://blackstripespub1.github.io/www.blackstripespub.com/tags/religion/">Religious</a> commentary</li>
-<li><a href="https://blackstripespub1.github.io/www.blackstripespub.com/tags/religion/">Political</a> commentary</li>
+<li><a href="https://blackstripespub.com/tags/tech/">Technology</a> notes regarding software and hardware</li>
+<li><a href="https://blackstripespub.com/tags/religion/">Religious</a> commentary</li>
+<li><a href="https://blackstripespub.com/tags/religion/">Political</a> commentary</li>
 </ol>
-<p>And if you are here for my <a href="https://blackstripespub1.github.io/www.blackstripespub.com/tags/book/">books</a>.</p>
+<p>And if you are here for my <a href="https://blackstripespub.com/tags/book/">books</a>.</p>
             ]]>
         </content>
     </entry>
