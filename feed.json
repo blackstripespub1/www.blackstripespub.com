@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://blackstripespub.com/installing-davinci-resolve-on-opensuse-tumbleweed.html",
+            "url": "https://blackstripespub.com/installing-davinci-resolve-on-opensuse-tumbleweed.html",
+            "title": "Installing DaVinci Resolve on OpenSUSE Tumbleweed",
+            "summary": "Follow the basic instructions in the install PDF: make the installer executable and run it. You will then be given a list of missing packages (if any). Install these. If running the installer again gives an error, then it is looking for specific names that&hellip;",
+            "content_html": "<p>Follow the basic instructions in the install PDF: make the installer executable and run it.</p>\n<p>You will then be given a list of missing packages (if any). Install these.</p>\n<p>If running the installer again gives an error, then it is looking for specific names that do not match the libraries you have just installed. To bypass this check (because you are certain you have installed the files) type:</p>\n<pre>SKIP_PACKAGE_CHECK=1 ./DaVinci_Resolve_18.5b1_Linux.run</pre>\n<p>Of course, if you need to have the executable above match your downloaded file.</p>",
+            "image": "https://blackstripespub.com/media/posts/10/00361-3410868574-video-editor.png",
+            "author": {
+                "name": "Darren Twa"
+            },
+            "tags": [
+                   "Tech",
+                   "OpenSUSE Tumbleweed"
+            ],
+            "date_published": "2023-04-19T13:01:46-07:00",
+            "date_modified": "2023-04-19T13:01:46-07:00"
+        },
+        {
             "id": "https://blackstripespub.com/tech.html",
             "url": "https://blackstripespub.com/tech.html",
             "title": "Tumbleweed USB printer sharing fix",
@@ -20,10 +37,12 @@
                 "name": "Darren Twa"
             },
             "tags": [
-                   "Tech"
+                   "Tech",
+                   "OpenSUSE Tumbleweed",
+                   "Linux"
             ],
             "date_published": "2023-04-19T11:15:45-07:00",
-            "date_modified": "2023-04-19T11:58:29-07:00"
+            "date_modified": "2023-04-19T12:37:57-07:00"
         },
         {
             "id": "https://blackstripespub.com/tennessee-southern-baptist-affected-by-gun-violence.html",

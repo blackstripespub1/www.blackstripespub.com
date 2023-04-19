@@ -3,12 +3,41 @@
     <title>BlackStripesPub.com</title>
     <link href="https://blackstripespub.com/feed.xml" rel="self" />
     <link href="https://blackstripespub.com" />
-    <updated>2023-04-19T11:58:29-07:00</updated>
+    <updated>2023-04-19T13:01:46-07:00</updated>
     <author>
         <name>Darren Twa</name>
     </author>
     <id>https://blackstripespub.com</id>
 
+    <entry>
+        <title>Installing DaVinci Resolve on OpenSUSE Tumbleweed</title>
+        <author>
+            <name>Darren Twa</name>
+        </author>
+        <link href="https://blackstripespub.com/installing-davinci-resolve-on-opensuse-tumbleweed.html"/>
+        <id>https://blackstripespub.com/installing-davinci-resolve-on-opensuse-tumbleweed.html</id>
+        <media:content url="https://blackstripespub.com/media/posts/10/00361-3410868574-video-editor.png" medium="image" />
+            <category term="Tech"/>
+            <category term="OpenSUSE Tumbleweed"/>
+
+        <updated>2023-04-19T13:01:46-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blackstripespub.com/media/posts/10/00361-3410868574-video-editor.png" alt="" />
+                    Follow the basic instructions in the install PDF: make the installer executable and run it. You will then be given a list of missing packages (if any). Install these. If running the installer again gives an error, then it is looking for specific names that&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blackstripespub.com/media/posts/10/00361-3410868574-video-editor.png" class="type:primaryImage" alt="" /></p>
+                <p>Follow the basic instructions in the install PDF: make the installer executable and run it.</p>
+<p>You will then be given a list of missing packages (if any). Install these.</p>
+<p>If running the installer again gives an error, then it is looking for specific names that do not match the libraries you have just installed. To bypass this check (because you are certain you have installed the files) type:</p>
+<pre>SKIP_PACKAGE_CHECK=1 ./DaVinci_Resolve_18.5b1_Linux.run</pre>
+<p>Of course, if you need to have the executable above match your downloaded file.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tumbleweed USB printer sharing fix</title>
         <author>
@@ -18,8 +47,10 @@
         <id>https://blackstripespub.com/tech.html</id>
         <media:content url="https://blackstripespub.com/media/posts/8/00360-383325233-laser-printer.png" medium="image" />
             <category term="Tech"/>
+            <category term="OpenSUSE Tumbleweed"/>
+            <category term="Linux"/>
 
-        <updated>2023-04-19T11:58:29-07:00</updated>
+        <updated>2023-04-19T12:37:57-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blackstripespub.com/media/posts/8/00360-383325233-laser-printer.png" alt="" />
